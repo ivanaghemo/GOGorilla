@@ -1,4 +1,4 @@
-module GORILLAMUX
+module github.com/ivanaghemo/GOGorilla
 
 go 1.16
 
